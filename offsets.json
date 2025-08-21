@@ -1,0 +1,10 @@
+{
+  "offsets": {
+    "Adornee": "0xD8",
+    "Anchored": "0x307",
+    "AnchoredMask": "0x2",
+    "AnimationId": "0xD8",
+    "AttributeList": "0x138",
+    "AttributeToNext": "0x70"
+  }
+}
