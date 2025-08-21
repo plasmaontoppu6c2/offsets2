@@ -49,7 +49,7 @@
     "FogColor": "0x104",
     "FogEnd": "0x13C",
     "FogStart": "0x140",
-    "ForceNewAFKDuration": "0x1F8", // 0x5E804F4
+    "ForceNewAFKDuration": "0x1F8",
     "FramePositionOffsetX": "0x4C4",
     "FramePositionOffsetY": "0x4CC",
     "FramePositionX": "0x4C0",
