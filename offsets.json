@@ -25,5 +25,6 @@
     "WalkSpeed": "0x1DC",
     "MoveDirection": "0x160",
     "ViewMatrix": "0x4B0"
+    "PrimitiveFlags": "0x301"
   }
 }
