@@ -1,6 +1,6 @@
 {
   "offsets": {
-    "MousePosition": "0xC98",
+    "MousePosition": "0xF4",
     "ModelInstance": "0x338",
     "Children": "0x68",
     "ChildrenEnd": "0x8",
@@ -18,7 +18,7 @@
     "Name": "0x88",
     "Primitive": "0x178",
     "PrimitiveGravity": "0x120",
-    "Position": "0x154",
+    "Position": "0x4B0",
     "StringLength": "0x10",
     "Value": "0xD8",
     "Velocity": "0x160",
