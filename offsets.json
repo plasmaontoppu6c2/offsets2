@@ -8,7 +8,7 @@
     "Camera": "0x450",
     "CameraPos": "0x124",
     "CameraRotation": "0x100",
-    "FakeDataModelPointer": "0x7171238",
+    "FakeDataModelPointer": "0x70a86b8",
     "FakeDataModelToDataModel": "0x1C0",
     "VisualEnginePointer": "0x6e061b0",
     "PlaceId": "0x1A0",
