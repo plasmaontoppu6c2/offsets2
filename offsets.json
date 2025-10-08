@@ -1,7 +1,7 @@
 {
   "offsets": {
     "MousePosition": "0xF4",
-    "ModelInstance": "0x340",
+    "ModelInstance": "0x348",
     "Children": "0x60",
     "ChildrenEnd": "0x8",
     "ClassDescriptor": "0x18",
@@ -12,7 +12,7 @@
     "FakeDataModelToDataModel": "0x1C0",
     "VisualEnginePointer": "0x6f6fc30",
     "PlaceId": "0x198",
-    "LocalPlayer": "0x120",
+    "LocalPlayer": "0x128",
     "Health": "0x194",
     "Team": "0x258",
     "Name": "0x80",
