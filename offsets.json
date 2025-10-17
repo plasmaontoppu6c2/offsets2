@@ -9,7 +9,7 @@
     "CameraPos": "0x11C",
     "CameraRotation": "0xF8",
     "FakeDataModelPointer": "0x7268A88",
-    "FakeDataModelToDataModel": "0x1B0",
+    "FakeDataModelToDataModel": "0x1C0",
     "VisualEnginePointer": "0x6FCC830",
     "PlaceId": "0x198",
     "LocalPlayer": "0x120",
@@ -25,6 +25,6 @@
     "WalkSpeed": "0x1D4",
     "MoveDirection": "0x158",
     "ViewMatrix": "0x4b0",
-    "PrimitiveFlags": "0x28d"
+    "PrimitiveFlags": "0x243"
   }
 }
