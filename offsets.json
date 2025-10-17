@@ -8,9 +8,9 @@
     "Camera": "0x448",
     "CameraPos": "0x11C",
     "CameraRotation": "0xF8",
-    "FakeDataModelPointer": "0x7268A88",
+    "FakeDataModelPointer": "0x720a138",
     "FakeDataModelToDataModel": "0x1C0",
-    "VisualEnginePointer": "0x6FCC830",
+    "VisualEnginePointer": "0x6f6fc30",
     "PlaceId": "0x198",
     "LocalPlayer": "0x120",
     "Health": "0x194",
@@ -24,7 +24,7 @@
     "Velocity": "0x128",
     "WalkSpeed": "0x1D4",
     "MoveDirection": "0x158",
-    "ViewMatrix": "0x4b0",
+    "ViewMatrix": "0x4B0",
     "PrimitiveFlags": "0x243"
   }
 }
